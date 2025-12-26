@@ -1,0 +1,21 @@
+lb_script
+made by dean
+這是基於python 製作的程式語言
+
+1.基本的符號
+    python裡函數跟著的符號是括號。例如：print("hello world")
+    lb_script是跟著反斜杠\。例如：show\hello world
+================================================================
+2.輸入和輸出
+(a)
+    python裡的輸出是print()
+    lbscript是show\
+
+print("hello world")    python裡的標準輸出
+show\hello world        lb_script裡的標準輸出
+================================================================
+(b)
+    python裡的輸入是input()
+    lb_script裡的標準輸入是enter\
+
+input("pls input")     
